@@ -1,6 +1,9 @@
 # yeast_dictionary
 
-Instructions:   
+##### SGD data accessed Apr 12, 2018
+
+
+### Instructions:   
 1. Download the [yeast_dictionary repository](https://github.com/j-berg/yeast_dictionary/archive/master.zip) to your Desktop
 2. Unzip the downloaded repository file
 3. Copy your matrix of interest into the yeast dictionary folder/directory
