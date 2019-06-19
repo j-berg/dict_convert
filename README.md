@@ -1,4 +1,4 @@
-# yeast_dictionary
+# sgdDictionary
 
 ##### SGD data accessed Apr 12, 2018
 
